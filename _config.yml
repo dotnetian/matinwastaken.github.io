@@ -92,12 +92,12 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: matinwastaken/matinwastaken.github.io # <gh-username>/<repo>
+    repo_id: R_kgDOKFm4wA
+    category: Announcements
+    category_id: DIC_kwDOKFm4wM4CYhZb
     mapping: # optional, default to 'pathname'
-    input_position: # optional, default to 'bottom'
+    input_position: top # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
     reactions_enabled: # optional, default to the value of `1`
 
@@ -110,7 +110,7 @@ assets:
     env: # [development|production]
 
 pwa:
-  enabled: true # the option for PWA feature
+  enabled: false # the option for PWA feature
 
 paginate: 10
 
