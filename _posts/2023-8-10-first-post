@@ -11,4 +11,4 @@ pin: true
 $ JEKYLL_ENV=production bundle exec jekyll b
 ```
 
-THIS MUST WORK!
+THIS MUST WORK! but it's not
