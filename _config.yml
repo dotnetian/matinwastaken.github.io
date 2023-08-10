@@ -93,11 +93,11 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: matinwastaken/matinwastaken.github.io # <gh-username>/<repo>
-    repo_id: R_kgDOKFm4wA
-    category: Announcements
-    category_id: DIC_kwDOKFm4wM4CYhZb
+    repo_id: 'R_kgDOKFm4wA'
+    category: 'Announcements'
+    category_id: 'DIC_kwDOKFm4wM4CYhZb'
     mapping: # optional, default to 'pathname'
-    input_position: top # optional, default to 'bottom'
+    input_position: 'DIC_kwDOKFm4wM4CYhZb' # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
     reactions_enabled: # optional, default to the value of `1`
 
