@@ -1,6 +1,5 @@
 ---
 title: My First OMG Post
-author: matinwastaken
 date: 2023-08-10 16:17:00 +0330
 categories: [Blogging, Tutorial, coooll]
 tags: [getting started, cool]
