@@ -1,5 +1,5 @@
 ﻿---
-title: 'Implementing Limited Speed Download with Pause/Resume Capability in ASP.NET Core'
+title: Implementing Limited Speed Download with Pause/Resume Capability in ASP.NET Core
 date: 2023-08-23 13:15:00 +0330
 author: matin
 categories: [Web Development]
@@ -176,7 +176,7 @@ Implementing the LimitedSpeedDownloadResult class in ASP.NET Core offers several
 
 ## Usage
 
-In order of implement this feature in your ASP.NET Core application, you don't have to use the raw code provided above. Instead, you can use the NuGet package `Matinm.Web.LimitedSpeedDownload`. As an example, you can install the latest version of this package in Visual Studio by typing this command in Package Manager Console:
+In order to implement this feature in your ASP.NET Core application, you don't have to use the raw code provided above. Instead, you can use the NuGet package `Matinm.Web.LimitedSpeedDownload`. As an example, you can install the latest version of this package in Visual Studio by typing this command in Package Manager Console:
 
 ```
 NuGet\Install-Package Matinm.Web.LimitedSpeedDownload
