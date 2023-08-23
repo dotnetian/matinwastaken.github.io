@@ -1,9 +1,9 @@
 ---
-title: Comparing .NET MAUI, UWP, and Windows Forms: The Ultimate Showdown
-date: 2023-08-23 11:22:00 +0330
+title: Text and Typography
 author: matin
-categories: [Application]
-tags: [dotnet, maui, uwp, winforms]
+date: 2019-08-08 11:33:00 +0800
+categories: [Blogging, Demo]
+tags: [typography]
 ---
 
 .NET is a versatile and powerful framework for developing applications across multiple platforms, including Windows, Android, iOS, macOS and Samsung Tizen. However, with so many options available, it can be hard to choose the best one for your Windows desktop app. In this article, we will compare three of the most popular choices: .NET MAUI, UWP and Windows Forms.
