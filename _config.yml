@@ -96,7 +96,7 @@ comments:
   giscus:
     repo: 'matinwastaken/matinwastaken.github.io' # <gh-username>/<repo>
     repo_id: 'R_kgDOKFm4wA'
-    category: 'Announcements'
+    category: 'General'
     category_id: 'DIC_kwDOKFm4wM4CYhZc'
     mapping: # optional, default to 'pathname'
     input_position: 'top' # optional, default to 'bottom'
