@@ -60,7 +60,7 @@ Using these tools, you can collect and compare performance data for different UI
 
 - [.NET 7 Performance Improvements in .NET MAUI - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-7-performance-improvements-in-dotnet-maui/)
 - [Performance Improvements in .NET MAUI - .NET Blog](https://devblogs.microsoft.com/dotnet/performance-improvements-in-dotnet-maui/)
-- [Build Windows apps with .NET MAUI - Windows apps | Microsoft Learn](https://learn.microsoft.com/en-us/windows/apps/windows-dotnet-maui/)
+- [Build Windows apps with .NET MAUI - Windows apps - Microsoft Learn](https://learn.microsoft.com/en-us/windows/apps/windows-dotnet-maui/)
 - [BenchmarkDotNet](https://benchmarkdotnet.org/)
 - [Visual Studio Diagnostics Tools](https://docs.microsoft.com/en-us/visualstudio/profiling/profiling-feature-tour?view=vs-2022)
 - [PerfView](https://github.com/microsoft/perfview)
