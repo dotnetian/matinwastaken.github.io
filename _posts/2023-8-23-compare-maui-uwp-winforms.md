@@ -2,7 +2,7 @@
 title: Comparing .NET MAUI, UWP, and Windows Forms: The Ultimate Showdown
 date: 2023-08-23 11:22:00 +0330
 author: matin
-categories: [Application Development]
+categories: [Application]
 tags: [dotnet, maui, uwp, winforms]
 ---
 
