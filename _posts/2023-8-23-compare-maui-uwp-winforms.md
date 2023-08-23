@@ -55,13 +55,3 @@ To compare the performance of .NET MAUI, UWP and Windows Forms apps on Windows 1
 - Windows Performance Analyzer: A tool that can visualize and analyze system and application performance data captured by Windows Performance Recorder. You can use it to examine CPU usage, disk I/O, memory usage, etc. and identify performance bottlenecks.
 
 Using these tools, you can collect and compare performance data for different UI frameworks and make informed decisions about which one suits your app's needs best.
-
-## References
-
-- [.NET 7 Performance Improvements in .NET MAUI - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-7-performance-improvements-in-dotnet-maui/)
-- [Performance Improvements in .NET MAUI - .NET Blog](https://devblogs.microsoft.com/dotnet/performance-improvements-in-dotnet-maui/)
-- [Build Windows apps with .NET MAUI - Windows apps](https://learn.microsoft.com/en-us/windows/apps/windows-dotnet-maui/)
-- [BenchmarkDotNet](https://benchmarkdotnet.org/)
-- [Visual Studio Diagnostics Tools](https://docs.microsoft.com/en-us/visualstudio/profiling/profiling-feature-tour?view=vs-2022)
-- [PerfView](https://github.com/microsoft/perfview)
-- [Windows Performance Analyzer](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/windows-performance-analyzer)
