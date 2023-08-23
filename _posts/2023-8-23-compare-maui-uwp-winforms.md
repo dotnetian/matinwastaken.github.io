@@ -1,5 +1,5 @@
 ---
-title: Comparing .NET MAUI, UWP and Windows Forms: .NET Giants Showdown
+title: 'Comparing .NET MAUI, UWP and Windows Forms: .NET Giants Showdown'
 date: 2023-08-10 16:17:00 +0330
 author: matin
 categories: [Blogging, Tutorial, coooll]
