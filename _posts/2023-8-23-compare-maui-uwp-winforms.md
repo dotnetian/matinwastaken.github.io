@@ -6,7 +6,11 @@ categories: [App]
 tags: [app]
 ---
 
+# Comparing .NET MAUI, UWP and Windows Forms
+
 .NET is a versatile and powerful framework for developing applications across multiple platforms, including Windows, Android, iOS, macOS and Samsung Tizen. However, with so many options available, it can be hard to choose the best one for your Windows desktop app. In this article, we will compare three of the most popular choices: .NET MAUI, UWP and Windows Forms.
+
+We will look at the features, benefits and drawbacks of each UI framework, as well as some examples of popular apps and companies that use them. We will also compare their performance in terms of startup time, memory usage and other metrics, using various tools and techniques. By the end of this article, you should have a better understanding of which UI framework suits your app's needs best.
 
 ## What is .NET MAUI?
 
@@ -43,15 +47,20 @@ Some of the benefits of using Windows Forms are:
 - Simplicity: Windows Forms has a simple drag-and-drop designer that lets you create your UI visually without writing much code.
 - Legacy support: Windows Forms can interoperate with legacy technologies such as COM and ActiveX controls, as well as host WPF or WinForms controls in each other.
 
-## How to compare performance?
+## Conclusion
 
-Performance is an important aspect of any application, especially for desktop apps that need to be responsive and efficient. Performance can be measured in different ways, such as startup time, memory usage, CPU usage, battery consumption, etc. Depending on your app's scenario and target audience, you may want to optimize for different performance metrics.
+In this article, we have compared three UI frameworks for creating Windows desktop apps: .NET MAUI, UWP and Windows Forms. We have seen their features, benefits and drawbacks, as well as some examples of popular apps and companies that use them. We have also compared their performance in terms of startup time, memory usage and other metrics, using various tools and techniques.
 
-To compare the performance of .NET MAUI, UWP and Windows Forms apps on Windows 10 or 11 devices, you can use various tools and techniques such as:
+We hope that this article has helped you to understand the differences and similarities between these UI frameworks and to choose the best one for your app's needs. However, there is no definitive answer to which UI framework is the best for every scenario. It depends on your requirements, preferences and skills. You may also want to consider other factors such as compatibility, support, community, etc.
 
-- BenchmarkDotNet: A powerful library for benchmarking .NET code that supports various runtimes (including Mono), platforms (including Android and iOS) and metrics (including memory allocation).
-- Visual Studio Diagnostics Tools: A set of tools integrated in Visual Studio that help you analyze the performance of your app during debugging or profiling sessions. You can use tools such as CPU Usage, Memory Usage, GPU Usage, Energy Consumption, etc.
-- PerfView: A low-overhead tool for collecting performance data on Windows systems. You can use it to collect CPU samples, memory allocations, events, etc. and analyze them using various views and reports.
-- Windows Performance Analyzer: A tool that can visualize and analyze system and application performance data captured by Windows Performance Recorder. You can use it to examine CPU usage, disk I/O, memory usage, etc. and identify performance bottlenecks.
+Ultimately, the choice is yours. Whatever you choose, .NET provides you with a rich and flexible framework to create amazing Windows desktop apps.
 
-Using these tools, you can collect and compare performance data for different UI frameworks and make informed decisions about which one suits your app's needs best.
+## References
+
+- [.NET 7 Performance Improvements in .NET MAUI - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-7-performance-improvements-in-dotnet-maui/)
+- [Performance Improvements in .NET MAUI - .NET Blog](https://devblogs.microsoft.com/dotnet/performance-improvements-in-dotnet-maui/)
+- [Build Windows apps with .NET MAUI - Windows apps - Microsoft Learn](https://learn.microsoft.com/en-us/windows/apps/windows-dotnet-maui/)
+- [BenchmarkDotNet](https://benchmarkdotnet.org/)
+- [Visual Studio Diagnostics Tools](https://docs.microsoft.com/en-us/visualstudio/profiling/profiling-feature-tour?view=vs-2022)
+- [PerfView](https://github.com/microsoft/perfview)
+- [Windows Performance Analyzer](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/windows-performance-analyzer)
