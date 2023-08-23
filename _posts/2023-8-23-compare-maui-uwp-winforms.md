@@ -65,3 +65,6 @@ Using these tools, you can collect and compare performance data for different UI
 - [Visual Studio Diagnostics Tools](https://docs.microsoft.com/en-us/visualstudio/profiling/profiling-feature-tour?view=vs-2022)
 - [PerfView](https://github.com/microsoft/perfview)
 - [Windows Performance Analyzer](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/windows-performance-analyzer)
+
+[^footnote]: The footnote source
+[^fn-nth-2]: The 2nd footnote source
