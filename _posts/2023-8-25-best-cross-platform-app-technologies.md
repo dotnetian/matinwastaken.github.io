@@ -174,7 +174,7 @@ Performance is comparable to other .NET technologies, offering high-quality apps
 
 Choosing the right technology for cross-platform app development depends on many factors such as the project requirements, budget, team expertise, and the performance needs of the app. While some technologies like Flutter and React Native might be perfect for one project, Xamarin or .NET MAUI might be better suited for another. It's also important to keep an eye on the future, as new technologies are being introduced regularly.
 
-With **.NET MAUI**, Microsoft has introduced a powerful and flexible option for developers. While it's still relatively new, its ability to offer a single codebase for all platforms makes it an attractive choice for future projects.
+With .NET MAUI, Microsoft has introduced a powerful and flexible option for developers. While it's still relatively new, its ability to offer a single codebase for all platforms makes it an attractive choice for future projects.
 
 No matter what technology you choose, the most important thing is to understand the strengths and weaknesses of each to make the best decision for your specific needs.
 
