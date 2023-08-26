@@ -6,8 +6,6 @@ categories: [Software Development]
 tags: [docker, microservice, container]
 ---
 
-## What is Docker and How Does it Enable Microservices?
-
 Docker has become one of the most widely used and important technologies for software development and delivery over the past decade. Originally released in 2013, Docker introduced new ways of building, distributing and running applications using Linux containers. This innovative approach to containerization has transformed how developers and IT organizations build and ship software.
 
 Docker provides a comprehensive platform and set of tools for container lifecycle management. It has also been instrumental in enabling microservices architecture.
