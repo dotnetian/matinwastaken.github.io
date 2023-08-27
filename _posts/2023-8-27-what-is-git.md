@@ -1,6 +1,6 @@
 ---
-title: 'Unlock the Power of Git: The Beginner's Guide to Conquering Version Control'
-date: 2023-08-27 10:45:00 +0330
+title: Unlock the Power of Git: The Beginner's Guide to Conquering Version Control
+date: 2023-08-27 10:40:00 +0330
 author: matin
 categories: [Software Development]
 tags: [git]
