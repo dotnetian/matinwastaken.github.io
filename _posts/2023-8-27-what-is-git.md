@@ -1,9 +1,9 @@
 ---
-title: 'Open Source Awakening: How Community-Driven Projects Propelled .NET to Greatness'
-date: 2023-08-27 10:15:00 +0330
+title: 'Unlock the Power of Git: The Beginner's Guide to Conquering Version Control'
+date: 2023-08-27 10:45:00 +0330
 author: matin
 categories: [Software Development]
-tags: [dotnet, csharp, mlnet, roslyn, aspnetcore, efcore]
+tags: [git]
 ---
 
 Tired of losing track of changes in your projects? Struggling to collaborate with team members without creating a messy codebase? Version control systems like Git are here to help!
