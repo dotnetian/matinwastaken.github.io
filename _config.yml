@@ -23,7 +23,7 @@ title: Matin's Blog # the main title
 tagline: a whole blog owned by me # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Blogs and <h1>m</h1>
+  Blogs and Tutorials by Matin Mohammadi
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://matinwastaken.github.io"
